@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Debagging-errors/static/css/main.bcaa921e.css",
+    "main.js": "/Debagging-errors/static/js/main.ca46ac9d.js",
+    "index.html": "/Debagging-errors/index.html",
+    "main.bcaa921e.css.map": "/Debagging-errors/static/css/main.bcaa921e.css.map",
+    "main.ca46ac9d.js.map": "/Debagging-errors/static/js/main.ca46ac9d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bcaa921e.css",
+    "static/js/main.ca46ac9d.js"
+  ]
+}
